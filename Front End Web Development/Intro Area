@@ -1,0 +1,44 @@
+HTML ELEMENT->
+An html element is an individual component of an html document or a web once it has been parsed
+Its is an building block of html
+    it has an opening tag
+    it may or may not have closing tag
+
+Elements with no closing tags are as follow:
+   <hr>
+   <br>
+   <img>
+   <input>
+   <link>
+   <meta>
+
+Use of meta tag in HTML:
+
+    Definition and Usage:
+
+Metadata is data (information) about data.
+The <meta> tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable.
+Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.
+The metadata can be used by browsers (how to display content or reload page), search engines (keywords), or other web services.
+
+     UTF-8 Meaning: 
+
+UTF-8 (8-bit Unicode Transformation Format) is a variable width character encoding capable of encoding all 1,112,064[nb 1]
+valid code points in Unicode using one to four 8-bit bytes.
+
+Heading Element
+    h1,h2,h3,h4,h5
+
+
+DIV AND SPAN:
+
+          they should be used when no other element is suitable
+Div is a block level element it take all horizontal element after the sentence in it every thing will come up and below it
+Somewhat different from paragraph tag.
+
+
+SPAN:
+     it comes up with the div something after span do not get to the para to the new line it do not change the way the text is displayed 
+
+Block level element can contain block level as well a inline element but he inline element can only contain the the inline element.
+         
