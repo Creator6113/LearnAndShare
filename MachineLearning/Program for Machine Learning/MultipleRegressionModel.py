@@ -43,7 +43,7 @@ y_pred= regressor.predict(X_test)
 
 #Backward elemination wegoing to find a team of variables which are having more impact on
 #on dependent variable that other
-import statsmodels.formula.api as sm
+import statsmodels.regression.linear_model as sm
 #appending a column of 1 to our data set
 # we specified 50 as no of lines and 1 as no of column
  
